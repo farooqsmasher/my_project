@@ -1,5 +1,5 @@
 
-peline {
+pipeline {
     
     stages {
         stage('Build') {
